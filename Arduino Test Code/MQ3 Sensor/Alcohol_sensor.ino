@@ -1,8 +1,4 @@
-/*MQ-3 sensor with arduino.
-  created by SriTu Tech team.
-  Read the code below and use it for any of your creations.
-  https://www.srituhobby.com/
-*/
+//MQ-3 sensor with arduino.
 #define sensorDigital 2
 #define LED 3
 #define buzzer 4
@@ -31,5 +27,4 @@ void loop() {
     digitalWrite(LED, LOW);
     digitalWrite(buzzer, LOW);
   }
-
 }
