@@ -7,6 +7,11 @@ The DHT11 humidity and temperature sensor make it really easy to add humidity an
 
 **DHT11 Sensor**
 
+![image](https://user-images.githubusercontent.com/83362170/162797709-afa4dda3-5ad0-479a-a6c4-55c44c8b9f63.png)
+
+![image](https://user-images.githubusercontent.com/83362170/162797741-ab7204bf-d3f1-4f1d-86df-0fbe4e40b858.png)
+
+
 The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air and spits out a digital signal on the data pin (no analog input pins needed). Its fairly simple to use, but requires careful timing to grab data. The only real downside of this sensor is you can only get new data from it once every 2 seconds, the sensor readings can be up to 2 seconds old.
 *Technical Details
 Low cost
