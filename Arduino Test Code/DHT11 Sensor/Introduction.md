@@ -37,4 +37,6 @@ There are two different versions of the DHT11 you might come across. One type ha
 
 ![image](https://user-images.githubusercontent.com/83362170/162796089-a3766790-3663-4a96-b08f-0a6221acfff9.png)
 
+*with LCD*
 
+![image](https://user-images.githubusercontent.com/83362170/162798039-676aa832-42fe-41a2-89b5-985d1681d416.png)
