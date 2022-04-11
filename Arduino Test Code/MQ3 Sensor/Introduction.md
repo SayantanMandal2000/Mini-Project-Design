@@ -31,3 +31,14 @@ We can get this output voltage in the form of analog input and digital input. Th
 
 
 ![image](https://user-images.githubusercontent.com/83362170/162794095-fb2f92c5-39db-46d3-b7fa-cff45731fb10.png)
+
+![image](https://user-images.githubusercontent.com/83362170/162794895-14ea9c3b-9e31-44e7-8052-9666759c0b7a.png)
+
+![image](https://user-images.githubusercontent.com/83362170/162794940-95d98b48-24e8-4f6b-9061-c941ffa69818.png)
+
+![image](https://user-images.githubusercontent.com/83362170/162794970-0480026c-aa1d-4b26-ac7f-8b83f95eace9.png)
+
+
+
+
+
