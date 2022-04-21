@@ -17,6 +17,19 @@ Pin Name-Function
 3.AOUT (Analog Output)-It generates a signal proportional to the intensity of methane.
 4.DOUT(digital output)-It also produces a digital signal whose limit can be set using a potentiometer.
 
+**Features & Specifications**
+Operating Voltage: 5V±0.1
+Heating voltage: 5V±0.1
+Load Resistance: 2 Kohms
+Sensing Resistance Range: 10 – 60 Kohms
+CH4 Sensing Range: 300 – 10000 ppm
+Sensor Heat Consumption: ≤ 950 mW
+Relative Humidity: >95% RH
+Standard Oxygen concentration: 21%
+Output Analog Voltage: 2.5 – 4 Volts (5000 ppm CH4)
+Preheating Time: Over 48 Hours
+The sensor is a simple and stable circuit with a TTL DO pin
+
 **MQ-4 Working Principle**
 With powering on the MQ4 methane gas sensor with 5V set the threshold and you can start getting the gas concentration of the air around the sensor. 
 Ans the onload LED will start responding accordingly which is also connected internally with Digital outout DOUT to interface further to any microcontrollers. 
