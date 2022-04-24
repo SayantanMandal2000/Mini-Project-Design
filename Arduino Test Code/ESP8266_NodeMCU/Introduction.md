@@ -54,3 +54,11 @@ You can connect the internet through Wi-Fi using NodeMCU, and apply your desired
 In this example, you can control an LED by pressing the ON and OFF key.
 
 Enter your modems SSID and password in the provided part and upload it on your NodeMCU board using Arduino IDE. (Leave other settings to the default)
+
+![image](https://user-images.githubusercontent.com/83362170/164982347-2b2a980a-8923-4811-a028-d70a043ad692.png)
+
+![image](https://user-images.githubusercontent.com/83362170/164982358-81dffff7-9e74-400e-88e7-1d38510359f0.png)
+
+![image](https://user-images.githubusercontent.com/83362170/164982369-67792361-52bd-416f-88c0-90a2f0b65a8d.png)
+
+https://www.hackster.io/RoboticaDIY/send-data-from-arduino-to-nodemcu-and-nodemcu-to-arduino-17d47a
