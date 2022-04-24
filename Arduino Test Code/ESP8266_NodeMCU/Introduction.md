@@ -32,6 +32,12 @@ step1. Choose Preferences in the File menu and enter the copied code in Addition
 
 ![image](https://user-images.githubusercontent.com/83362170/164505423-c03a1cef-715e-4aaa-87a7-f79732114201.png)
 
+![image](https://user-images.githubusercontent.com/83362170/164982212-bde7b003-bee6-484b-9cbc-98c7298ed657.png)
+
+https://www.hackster.io/RoboticaDIY/send-data-from-arduino-to-nodemcu-and-nodemcu-to-arduino-17d47a
+
+
+
 Step2. Search the word ESP8266 in Boards>boards manager from Tools menu. Then install ESP8266 boards. After complete installation, you will see the INSTALLED label on ESP8266 boards.
 
 ![image](https://user-images.githubusercontent.com/83362170/164505508-6d01dc29-b623-4d66-9486-e9ac397fa1e2.png)
