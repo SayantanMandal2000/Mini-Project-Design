@@ -38,4 +38,5 @@ lcd.setCursor(0, 1); // bottom left
 
 lcd.setCursor(15, 1); // bottom right
 
+![image](https://user-images.githubusercontent.com/83362170/165798358-408d990b-4bf8-4fef-aae0-d94ff870bb87.png)
 
