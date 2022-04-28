@@ -28,4 +28,11 @@ A-K (Anode & Cathode) pins are used to control the backlight of the LCD.
 
 ![image](https://user-images.githubusercontent.com/83362170/162799220-6528cd4d-40ac-4940-a887-bf1b78ac2f96.png)
 
+To move the cursor, just call setCursor() with a row and column position. For example, for a 2x16 display:
+
+lcd.setCursor(0, 0); // top left
+lcd.setCursor(15, 0); // top right
+lcd.setCursor(0, 1); // bottom left
+lcd.setCursor(15, 1); // bottom right
+
 **Link-** https://lastminuteengineers.com/
