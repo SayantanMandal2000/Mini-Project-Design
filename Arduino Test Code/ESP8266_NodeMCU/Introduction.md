@@ -65,3 +65,4 @@ https://www.hackster.io/RoboticaDIY/send-data-from-arduino-to-nodemcu-and-nodemc
 
 ![image](https://user-images.githubusercontent.com/83362170/165785578-ab93c30b-d9d1-4310-845e-a08769ce52bc.png)
 
+https://create.arduino.cc/projecthub/PatelDarshil/how-to-communicate-with-esp8266-via-arduino-uno-f6e92f
