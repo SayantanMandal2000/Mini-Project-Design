@@ -21,9 +21,9 @@ void setup()
   pinMode(motor1pin2, OUTPUT);
 
   lcd.begin(16,2); 
-  lcd.setCursor(1,0);
+  lcd.setCursor(0,0);
   lcd.print("Intelligent");
-  lcd.setCursor(3,1);
+  lcd.setCursor(0,1);
   lcd.print("Engine Locking");
   Serial.begin(9600);
 }
@@ -44,9 +44,15 @@ void loop()
     digitalWrite(LED, HIGH);
     digitalWrite(buzzer, HIGH);
 
-    digitalWrite(motor1pin1, HIGH);
-    digitalWrite(motor1pin2, LOW);
+    digitalWrite(motor1pin1, LOW);
+    digitalWrite(motor1pin2, HIGH);
 
+    lcd.setCursor(0,0);
+    lcd.print("Alcohol Detected");
+    lcd.setCursor(1,1);
+    lcd.print("Conc:");
+    lcd.print(analog);
+    lcd.print(" ppm");
   } 
   
   else 
@@ -54,15 +60,12 @@ void loop()
     digitalWrite(LED, LOW);
     digitalWrite(buzzer, LOW);
 
-    digitalWrite(motor1pin1, LOW);
-    digitalWrite(motor1pin2, HIGH);
-
+    digitalWrite(motor1pin1, HIGH);
+    digitalWrite(motor1pin2, LOW);
+    
     lcd.setCursor(0,0);
-    lcd.print("Alcohol Detected");
-    lcd.setCursor(15,0);
-    lcd.print("Conc:");
-    lcd.print(analog);
-    lcd.print(" ppm");
+    lcd.print("No Alcohol");
+  
   }
   
 }
