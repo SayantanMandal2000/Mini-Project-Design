@@ -45,7 +45,7 @@ void loop()
     digitalWrite(buzzer, HIGH);
 
     digitalWrite(motor1pin1, LOW);
-    digitalWrite(motor1pin2, HIGH);
+    digitalWrite(motor1pin2, LOW);
 
     lcd.setCursor(0,0);
     lcd.print("Alcohol Detected");
