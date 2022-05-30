@@ -55,7 +55,7 @@ void loop()
     lcd.print(" ppm");
   } 
   
-  else 
+  else if(digital == 1)
   {
     digitalWrite(LED, LOW);
     digitalWrite(buzzer, LOW);
